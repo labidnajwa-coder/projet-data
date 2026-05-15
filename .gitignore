@@ -1,0 +1,56 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+
+# Docker
+.dockerignore
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data
+data/
+*.csv
+*.json
+*.sqlite
+*.db
+
+# Airflow
+airflow/logs/
+airflow/plugins/
+airflow/airflow.db
+airflow/airflow-webserver.pid
+
+# OS files
+.DS_Store
+Thumbs.db
