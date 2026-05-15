@@ -66,10 +66,3 @@ The platform follows the **Medallion Architecture** to ensure data quality and l
 | **Superset BI** | [http://localhost:8088](http://localhost:8088) | `admin` / `admin` |
 | **Postgres Port** | `localhost:5433` | See `.env` |
 
----
-
-[alimouda14@gmail.com](mailto:alimouda14@gmail.com)
-
----
-
-
