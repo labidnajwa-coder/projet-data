@@ -68,10 +68,6 @@ The platform follows the **Medallion Architecture** to ensure data quality and l
 
 ---
 
-## 👨‍💻 Author
-
-**Ali**  
-*Big Data & Analytics Enthusiast*  
 [alimouda14@gmail.com](mailto:alimouda14@gmail.com)
 
 ---
